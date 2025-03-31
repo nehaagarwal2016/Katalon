@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verfiy_book_appointment_with_all_inputs - Copy</name>
+   <name>Verify_Login_Functionality_Positive</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a9b26f2b-e74b-4892-912c-91c35264ed11</testCaseGuid>
+   <testCaseGuid>82ee3210-e528-4a24-84a2-dd56e0b4804f</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login and create an appointment</description>
+   <name>Verfiy_Make_Appointment_Negative_Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7ee8269-ce4f-49d4-835e-d4923796157a</testCaseGuid>
+</TestCaseEntity>

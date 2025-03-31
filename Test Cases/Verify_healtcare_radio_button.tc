@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verfiy_book_appointment_with_all_inputs - Copy</name>
+   <name>Verify_healtcare_radio_button</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a9b26f2b-e74b-4892-912c-91c35264ed11</testCaseGuid>
+   <testCaseGuid>b5d8b0e7-6a54-44b4-8cba-ac58542d627f</testCaseGuid>
 </TestCaseEntity>

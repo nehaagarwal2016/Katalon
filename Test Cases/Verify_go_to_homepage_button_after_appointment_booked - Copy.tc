@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verfiy_book_appointment_with_all_inputs - Copy</name>
+   <name>Verify_go_to_homepage_button_after_appointment_booked - Copy</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a9b26f2b-e74b-4892-912c-91c35264ed11</testCaseGuid>
+   <testCaseGuid>b9aedf27-fb9a-42c2-a616-1e98b05e5b7a</testCaseGuid>
 </TestCaseEntity>
